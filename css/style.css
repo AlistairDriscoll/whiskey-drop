@@ -178,9 +178,14 @@ body {
     padding-bottom: 75px;
 }
 
-.container-wrapper {}
 
 .container-wrapper--red {
     background-color: #f05f40;
     color: white;
+}
+
+/* Mailchimp CSS */
+
+#mc_embed_signup {
+    padding: 0;
 }
